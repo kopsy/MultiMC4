@@ -1,6 +1,9 @@
 ![MultiMC](http://i.imgur.com/QJXbz.png)
 <h1>MultiMC 4</h1>
 <p>MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once. It also allows you to easily install and remove mods by simply dragging and dropping.</p>
+<p>
+This version of MultiMC allows non-premium players to use it as well.
+</p>
 
 <h3>License</h3>
 <p>Copyright &copy; 2012 MultiMC Contributors</p>
